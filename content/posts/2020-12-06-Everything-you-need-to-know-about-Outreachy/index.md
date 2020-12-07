@@ -1,5 +1,5 @@
 ---
-title: Everything you need to know about Outreachy
+title: Everything you need to know about Outreachy (Incomplete Post)
 author: Hasna Hena Mow
 date: 2020-12-06
 hero: ./images/hero.png

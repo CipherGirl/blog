@@ -8,7 +8,15 @@ excerpt: Get to know Hasna Hena Mow, an Outreachy intern from Dhaka, Bangladesh.
 
 ## Introduction
 
-Hello World! I'm **Hasna Hena Mow** from *Dhaka, Bangladesh*. I love to go by my pseudoname **`CipherGirl`**. I'm about to complete my undergrad from Dhaka City College as CS Major.
+Hello World! I'm **Hasna Hena Mow** from *Dhaka, Bangladesh* (a tiny country shown in the map below). I love to go by my pseudoname **`CipherGirl`**. I'm about to complete my undergrad from Dhaka City College as CS Major.
+
+<div className="Image__Small">
+  <img
+    src="./images/BD.jpg"
+    title="Bangladesh"
+    alt="Bangladesh in World Map"
+  />
+</div>
 
 In my earlier academic years I was very fond of Competitive Programming. Later I diverted to exploring different fields in Tech industry. Earlier in 2020, I determined to build my career as Web Developer. Started my journey with freeCodeCamp 🔥.
 
@@ -16,38 +24,44 @@ During 2nd year I got scholarship to attend the world’s largest gathering of w
 
 In 3rd year I participated in **Google CodeU 2019** (Asia Pacific), Student Program. It was more like a virtual pre-internship that allows students to program during a 12-week period and gain insider knowledge on how to secure a highly coveted paid-internship. This insider knowledge includes mock interviews, resume workshops and career sessions.
 
-My undergrad life is almost finished (Stuck for COVID-19). Got another great opportunity, **Outreachy** internship @**Mozilla**. Hoping to put a beautiful end to my undergrad life with the amazing experience of working with **Mozilla**.
+My undergrad life is almost finished (Stuck for COVID-19). Got another great opportunity, **Outreachy** internship @**Mozilla** for the awesome project **FireFox Profiler**. Hoping to put a beautiful end to my undergrad life with the amazing experience of working with **Mozilla**.
 
 ## My Core Values
 
-### Initial Application
+We all have some core values but I guess not everyone conciously focuses on this. In fact, I just recently discovered my core values, I actually never thought about this before writing this blog. Now I find it very useful and important thing for a person as it reflect's a person's fundamental belief.
 
-The initial application verifies your eligibilty, also considers your experience as minor or under-represented group in tech industry of your country. Remember It's purpose is to lessen the gender-bias or discrimination in tech industry. So if you ever felt as a minor in Tech, express properly in you initial application. Another thing important here is to ensure your work time availability. Interns are required to work 40 hours per week. So you need to make sure you don't have any time commitments during that periood. After getting approved initial application, you can now choose projects and start contributing for final application.
+My top 3 core values are, Integrity, Curiosity and Serenity.
 
-### Contribution Phase
+### Integrity
 
-Here comes the most **important** and **complex** phase! This phase requires some important steps to follow. Let me explain them for you.
+A person with integrity demonstrates sound moral and ethical principles and does the right thing, no matter who's watching. I believe a person with integrity have great self-respect and mindfulness. That's why it's the top one of my core values.
 
-#### 1. Project Selection
+<div className="Image__Small">
+  <img
+    src="./images/Napoleon-Hill-Integrity.jpg"
+    title="Integrity by Napoleon Hill"
+    alt="quote"
+  />
+</div>
 
-You have to find out the project that matches your skillset and fascinates you. This is where many people do mistake. The difficulty level of the projects varies depending it's company, it's tech, tools and architecture. The process can be overwhelming TBH. But you definitely have to keep your nerves calm and pick project that really excites you. You can select multiple projects. But this can be risky too. If you have a strong skillset you can go for multiple projects. If you are beginner I suggest you to stick to one, or chose beginner friendly projects. Even if you don't get selected you would definitely gain knowledge about contributing to Open Source, talking to mentors. In that case you have nothing to lose, and you can definitely come back stronger for next round (only 5-6 months away).
+### Curiosity
 
-#### 2. Reaching out to Mentors / Joining Project Chat
+I believe no one grow or develop themselves without curiosty. For me, curiosity leaded me to many opportunities. Curiosity is the reason why I chose to build career in Tech. And I can't thank myself enough for that. I find myself constantly learning and growing. And most importantly you can never be bored when you have a **_Curios Mind_** 😉
 
-This one is important! Now that you have selected the project reach out to mentor or join project chat group ASAP. You will feel confident to see yourself an early bird for that project. If you delay, you may see so many candidates introducing themselves, talking about issues, tools used in there and all. This maybe intimidating for you if you are applying for the first time. You might feel lost in the crowd.
+### Serenity
 
-#### 3. Contributing!
+Serenity is quality or state of being calm and peaceful. This will allow a person to accept more easily that bad things happen in life and furthermore open your mind to the possibilities of getting through it. I believe no one can truly be happy without inner peace. Serenity is important to me for living the life to the fullest. Well it is the main purpose of life, right?
 
-In the outreachy site you'll see your first time contributing guideline for each projects. These are set by mentors. So read them thoroughly before asking anything to mentor (They become super busy this phase, get lots of unnecessary questions too, try to avoid that). Ask them questions on specific topic, tool, or ask for help if you stuck on setting up the project. Do some research before you ask about anything. (They appreciate this)
+## Why I applied to Outreachy
 
-Now that you have set up your project and have understanding of contributing, start contributing. And keep contributing till deadline. Even after that if you have unfinished tasks. Outreachy requires at least one contribution to be eligible for the final application and internship. But contributing more shows how much you are interested and reflects your skill level, how you handle several tasks. These are the things that mentor notices. And keep recording you contribution in outreachy site.
+I've always felt like minority in Tech. I came from a conservative society where higher studies in Tech field is discouraged for girls. Fortunately I got great support from family to pursue career in STEM specially in Tech. I'm first generation graduate too. In my country most internship opportunities are for fresh graduates. But I noticed students from other countries getting internships, gathering experience and preparing themeselves for the industry so efficiently. This made me feel so lagged behind.
 
-### Final Application
+For self development I started working on open source projects in Github. I gained good knowledge about git and collaboration with other developers. I developed day by day. Started to use Free and Open Source Softwares too.
 
-For submitting final application you have to record at least one contribution of each project. And there is some other fields asking about your experience open source software user/contributor. To avoid any sort of technical issues/faults submit final application at least 2-3 hours before the deadline time.
+I came to know about outreachy last year. I applied also but my intial application was not approved. For my second time applying, not just my initial application got approved, I got the intership too! I got the opportunity to work with the company I really admire, **Mozilla**. 
 
-Now that you have submitted final application, you can still contribute and record them. You can also talk to mentor about your next move. Ask for suggestions if you need to learn about any tools used by the project. And finally the least favorite part **WAITING** for result.
+I share my belive with Outreachy about diversity in tech and FOSS (Free and Open Source Software). Outreachy made me believe that I belong to their Alum's page. So I tried hard and got it 😇.
 
-## The Internship
+---
 
-# ....Post is not complete, coming soon....
+I hope you had fun knowing about me! Keep an eye out on my blog to know about upcomming journey as Outreachy intern @ Mozilla. Don't hesitate to ping me if you want to know more about Outreachy or any other thing. I'd love to chat with you! My can find ways to contact me here -> [Hasna Hena Mow](https://ciphergirl.github.io/blog/authors/hasna-hena-mow)
