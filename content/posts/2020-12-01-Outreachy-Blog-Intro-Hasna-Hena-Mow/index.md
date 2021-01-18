@@ -1,5 +1,5 @@
 ---
-title: Outreachy Series - Intro of Hasna Hena Mow an Outreachy intern from Bangladesh 👋
+title: Outreachy Series - Introduction
 author: Hasna Hena Mow
 date: 2020-12-01
 hero: ./images/hero.png
