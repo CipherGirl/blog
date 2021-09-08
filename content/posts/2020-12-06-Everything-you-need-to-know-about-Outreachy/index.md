@@ -1,5 +1,5 @@
 ---
-title: Everything you need to know about Outreachy (Incomplete Post)
+title: Everything you need to know about Outreachy!
 author: Hasna Hena Mow
 date: 2020-12-06
 hero: ./images/hero.png
@@ -28,7 +28,7 @@ The initial application verifies your eligibility, also considers your experienc
 
 ### Contribution Phase
 
-Here comes the most **important** and **complex** phase! This phase requires some important steps to follow. Let me explain them to you.
+Here comes the most **important** phase! This phase requires some important steps to follow. Let me explain them to you.
 
 #### 1. Project Selection
 
@@ -36,7 +36,7 @@ You have to find out the project that matches your skillset and fascinates you. 
 
 #### 2. Reaching out to Mentors / Joining Project Chat
 
-This one is important! Now that you have selected the project reach out to a mentor or join the project chat group ASAP. You will feel confident to see yourself as an early bird for that project. If you delay, you may see so many candidates introducing themselves, talking about issues, tools used in there and all. This may be intimidating for you if you are applying for the first time. You might feel lost in the crowd.
+This one is important! Now that you have selected the project reach out to a mentor or join the project chat group ASAP. You will feel confident to see yourself as an early bird for that project. If you delay, you may see so many candidates introducing themselves, talking about issues, tools used in there and all. This may be intimidating for you if you are applying for the first time. You may feel like 'lost in the crowd'.
 
 #### 3. Contributing!
 
@@ -46,9 +46,25 @@ Now that you have set up your project and have an understanding of contributing,
 
 ### Final Application
 
-For submitting the final application you have to record at least one contribution to each project. And some other fields are asking about your experience open-source software user/contributor. To avoid any sort of technical issues/faults submit the final application at least 2-3 hours before the deadline time.
+For submitting the final application you have to record at least one contribution to each project. And some other fields are asking about your experience open-source software user/contributor. There is one field that's quite important is the 'Timeline'. Here you have to breakdown you internship task in details. It's like your planning of how and when will be deliverables of your tasks. It's just for reference, it won't be exact afterall. But the mentor will be impressed if you can show them that you have understood the task process and have somewhat knowledge of how and when to do the tasks. Some projects may have task list during the internship. Some doesn't, in that case, you can contact with mentor about the what will be tasks during the internship. You can also ask help with the 'Timeline'. Make sure you discuss with your mentor about the timeline 5-7 days before the submission deadline. So that you can work with the timeline depending on your mentors response.
+
+To avoid any sort of technical issues/faults submit the final application at least 2-3 hours before the deadline time or maybe a day if possible.
 
 Now that you have submitted the final application, you can still contribute and record them. You can also talk to your mentor about your next move. Ask for suggestions if you need to learn about any tools used by the project. And finally the least favorite part **WAITING** for the result.
+
+# How to Prepare For Next Outreachy Round
+
+Outreachy round happens 2 times a year. So the next round is always soon. It's really important to prepare yourself before the Outreachy application opens. As it's focused for free and open-source projects you should gather some experience beforehand to get yourself through the Outreachy application process easily. Let me explain how you can prepare step by step.
+
+1. If you have no experience working on Open Source project, you better start do some internet search about that and try to get into contributing to some projects. If you are just starting out, these are some website that may help you -> https://opensource.guide/how-to-contribute/, https://github.com/freeCodeCamp/how-to-contribute-to-open-source, https://www.firsttimersonly.com/.
+
+2. You should keep eye on the Outreachy site to know when next round is opening. It's better to subscripe to their newsletter too. That's what I did. It's a good idea to explore previous projects and skills in the Outreachy site, so that you can have idea about the common projects requirements and prepare for it. 
+   
+3. If you are new to open source and first time trying for Outreachy, you should start contributing different open source projects for practicing. You'll gain experience of colaborating, you'll practice VCS (Version Control System, as git).
+
+4. Practice communicating to project maintainers. Contributing open source can be intimidating. It's important that you have good communication skill. During the contribution phase as there's lots of applicants fighting for task assignments and all. You'll be really intimidated by that but if you know how to commnunicate, you'll stand out.
+
+# Post Outreachy Internship Selection Phase
 
 ## The Internship
 
@@ -67,15 +83,24 @@ They provide several options to receive the payment such as PayPal, Wire transfe
 
 The tax form is not that hard to fill, I had confusion in two point. It's field no 6 and 9. In 6, I filled with my e-TIN number. People from different countries can have different names of that. And another importnat one is field 9 in part II, **Tax Treaty**. Tax treaty is a bilateral (two-party) agreement made by two countries to resolve issues involving double taxation of passive and active income of each of their respective citizens. If any country doesn't have tax treaty with US they can cut upto 30% of your income as tax. Bangladesh has tax treaty with US. So, I put the country name I'm residing, _Bangladesh_ in field 9. Field 10 can be left blank. 
 
-# How to Prepare For Next Outreachy Round
+If you are residing in _Bangladesh_ then some tax information you should know. As _Bangladesh_ has tax treaty with US they won't cut any taxes on your income. Here in _BD_ some banks might consider this income as Inward Remittance. And they would cut 10% of the money as tax. But this is a independant contract, which is considered freelancing in _BD_ and there is NO TAX applicable for such income till 30 June, 2024. You may need to proof as the Tax circular article about the Information Technology Enabled Services (ITES) income from NBR website. And you may need to provide the Outreachy contract to show that this is independant contract. I did show my NDA with Mozilla to proof that it's a software development internship and falls in ITES category. So you will get money sent by Outreachy without any tax cuts!
 
-Outreachy round happens 2 times a year. So the next round is always soon. It's really important to prepare yourself before the Outreachy application opens. As it's focused for free and open-source projects you should gather some experience beforehand to get yourself through the Outreachy application process easily. Let me explain how you can prepare step by step.
+### Outreachy Blog and Chat
 
-1. You should keep eye on the Outreachy site to know when next round is opening. It's better to subscripe to their newsletter too. That's what I did. It's a good idea to explore previous projects and skills in the Outreachy site, so that you can have idea about the common projects requirements and prepare for it. 
-   
-2. If you are new to open source and first time trying for Outreachy, you should start contributing different open source projects for practicing. You'll gain experience of colaborating, you'll practice VCS (Version Control System, as git).
+Outreachy requires every intern to write blog bi-weekly. So you better start working on blog setup early if you are noob in this area like me. I struggle writing blog posts, I just cant get the right words out. You can plan out future blogs and also schedule the chat time. The chat is organized by Outreachy community, the topics are also listed in the internship guideline page of Outreachy site, the blog prompts are also there. Altough you can modify the prompt of the Blog post keeping the theme or topic same. It's better to add these to the calendar events so you can keep track of upcoming chat and blog posting date.
 
-3. Practice communicating to project maintainers. Contributing open source can be intimidating. It's important that you have good communication skill. During the contribution phase as there's lots of applicants fighting for task assignments and all. You'll be really intimidated by that but if you know how to commnunicate, you'll stand out.
+### Meeting With Mentor and Project Team (Organizational)
 
+My mentor has scheduled weekly project meeting about the progress and workflow of the internship tasks. Your project may have a team so you might have some internal meetings with the whole team about integrate update of the Project (Not just your tasks). I have these meetings too, but I mostly get nervous to attend as I feel my task updates are less important to discuss. And most of the time I don't have any important update to discuss. My mentor encouraged to attend these as it's not about sharing the updates but to listen what everybody is up to. How they discuss about project tasks and records the progress. So it was quite interesting to attend. 
 
-# ...Post is not complete, coming soon...
+### Adjusting Your Expectations
+
+You may have created a 'Timeline' of your task deliverables. Or even if you haven't created the 'Timeline' you may have made some plans about progressing with the internship tasks. Now that you have been selected as intern you'll find for some cases your plan is just not working out. And there is nothing to worry about as long as you are putting 40 hours/week time on your project. Sometimes we can get the work done in time or we could have made wrong anticipations. It's time to adjust it. Talk to your mentor about what they are expecting from you, ask if you are going good enough and to give tips on your approach to tasks. I believe talking to your mentor is very important for your progress.
+
+### Enjoy Your Internship
+
+It's likely that we may feel pressurize ourselves when we work on deadlines or plans. But the internship is very much different. It's more like adjusting yourself with the working environment, developing yourself. So worrying too much about the tasks and everything might make you feel you are not enjoying the internship. This happens to me too. I then just take some time off, re-live my memories about how badly I wanted the Outreachy internship and I just appreciate the opportunity and everything that's happening at the moment.
+
+---
+
+I believe you enjoyed reading my post. Don't hesitate to ping me if you want to know more about Outreachy. I'd love to chat with you! You can find ways to contact me here -> [Hasna Hena Mow](https://ciphergirl.github.io/blog/authors/hasna-hena-mow) 

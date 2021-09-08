@@ -26,4 +26,4 @@ Another struggle I'd like to mention is 'Blogging'. Honestly speaking, I always 
 
 ### ..So Does The Surviving
 
-Despite all these, the show must go on, right? The most crucial part is that whatever the struggle is we always have to find a way to tackle it and overcome it. Sometimes we succeed and sometimes don't. But we gain experiences from it and we grow. 
+The most crucial part is that whatever the struggle is we always have to find a way to tackle it and overcome it. Sometimes we succeed and sometimes don't. But we gain experiences from it and we grow. 

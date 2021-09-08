@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Hasna Hena Mow`,
     name: `CipherGirl`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://ciphergirl.github.io./blog`,
     description: `Web Developer from Bangladesh writes about her jouney in tech industry. Here you can find her story becoming Mozilla intern by Outreachy, a remote paid intership program`,
     hero: {
       heading: `Hi! I'm Hasna Hena Mow, a Tech Enthusiast from Bangladesh. Welcome to my Outreachy journey blog :)`,
@@ -25,7 +25,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "@narative/gatsby-theme-novela",
+      resolve: "@narative/gatsby-theme-them",
       options: {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
